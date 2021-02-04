@@ -4,7 +4,6 @@ caffeine-ng==3.4.2
 cffi==1.14.4
 chardet==3.0.4
 Cheetah3==3.2.6
-chrome-gnome-shell==0.0.0
 colorama==0.4.4
 configobj==5.1.0.dev0
 contextlib2==0.6.0.post1
