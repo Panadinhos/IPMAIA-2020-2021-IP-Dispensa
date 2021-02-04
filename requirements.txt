@@ -23,7 +23,6 @@ html5lib==1.1
 httplib2==0.18.1
 idna==2.10
 Jinja2==2.11.2
-layoutswitcherlib==0.8.16
 LibAppArmor==3.0.1
 libfdt==1.6.0
 louis==3.16.0
