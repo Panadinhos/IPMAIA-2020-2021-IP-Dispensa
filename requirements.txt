@@ -39,7 +39,6 @@ protobuf==3.12.4
 protonvpn-cli==2.2.6
 protonvpn-gui==2.1.1
 psutil==5.8.0
-pwquality==1.4.4
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycairo==1.20.0
